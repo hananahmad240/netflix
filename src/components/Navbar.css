@@ -1,0 +1,20 @@
+.nav {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    height: 30px;
+    padding: 20px;
+    transition: all ease 0.9s;
+}
+
+.nav img {
+    position: fixed;
+    width: 100px;
+    margin: 10px 0 0 10px;
+    object-fit: contain;
+
+}
+
+.nav_black {
+    background-color: #111;
+}
